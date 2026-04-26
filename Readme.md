@@ -118,7 +118,7 @@ I spend time building systems, so upfront payment ensures serious requests.
 
 # 📩 Contact
 
-Discord: yourname#1234
+Discord Username: r4w0434
 
 When messaging, include:
 
