@@ -2,29 +2,27 @@
 
 ## 🙋 About Me
 
-Hi I am a beginner Roblox developer.I am learning scripting and game development.I focus on building functional systems. I improve every day.# 🎯 My Goal
+Hi I am a beginner Roblox developer. I am learning scripting and game development. I focus on building functional systems and improving every day.
+
+---
+
+# 🎯 My Goal
 
 My goal is to become a Roblox developer. I want to build:
 
-* gameplay systems
-
+* Gameplay systems
 * Secure server-side logic
-
-* Fun and interactive experiences with Roblox
+* Fun and interactive experiences
 
 ---
 
 # 🧩 What I Can Do
 
-* I can do Lua scripting
-
-* I can make Roblox systems
-
-* I understand UI buttons and interactions
-
-* I know RemoteEvents usage
-
-* I understand script placement in ServerScriptService and StarterGui
+* Lua scripting
+* Simple Roblox systems
+* UI buttons and interactions
+* Basic RemoteEvents usage
+* Understanding script placement (ServerScriptService, StarterGui)
 
 ---
 
@@ -32,106 +30,89 @@ My goal is to become a Roblox developer. I want to build:
 
 ## 💰 Currency Systems
 
-* I am learning coin systems
+* Coin systems
+* Adding and removing currency
+* Data saving basics
 
-* I am learning to add and remove currency
+## 🔫 FPS Systems
 
-* I am learning data saving basics for currency
-
-## FPS Systems
-
-* I am learning shooting basics
-
-* I am learning weapon handling in Roblox
+* Shooting basics
+* Weapon handling
 
 ## ⚔️ Combat Systems
 
-* I am learning hit detection
-
-* I am learning damage systems for combat
+* Hit detection
+* Damage systems
 
 ## 🖥️ UI Systems
 
-* I am learning buttons
-
-* I am learning labels
-
-* I am learning layouts for UI
+* Buttons
+* Labels
+* Layouts
 
 ---
 
 # 🚧 Current Projects
 
-### 💰 Simple Coin System (In Progress)
+### 💰 Simple Coin System (Example Project)
 
-* I am making a button that gives coins
+This is a simple coin system example I made to show how I am learning Roblox scripting.
 
+* A button gives coins
 * Coins display on screen
-
-* I am learning system structure for coin systems
+* This is a basic example, not a full system
 
 ---
 
-#. Future Projects
+# 🔮 Future Projects
 
-* I plan to make a currency system with saving
-
-* I plan to make an FPS system
-
-* I plan to make a combat system
-
-* I plan to make a shop system
-
-* I plan to make an inventory system
+* Currency system with saving
+* FPS system
+* Combat system
+* Shop system
+* Inventory system
 
 ---
 
 # 🧠 How I Work
 
-* I keep my scripts clean and organized
-
+* I keep scripts clean and organized
 * I learn step-by-step
-
-* I try to understand what I build with Roblox
-
-* I improve with every project I make
+* I try to understand what I build
+* I improve with every project
 
 ---
 
 # 💸 Pricing (Beginner Stage)
 
-* Small scripts are free or very cheap
-
-* Practice systems are free
-
-* Custom small tasks have a cost
+* Small scripts → Free / Very cheap
+* Practice systems → Free
+* Custom small tasks → Low cost
 
 ---
 
 # 💳 Payment Terms
 
-* In terms of script payment is required upfront
+* Small tasks → Payment required upfront
 
+## 📌 Why upfront?
 
-## 📌 Why upfront?I spend time building systems. Upfront payment ensures requests.## 🤝 Trust
+I spend time building systems, so upfront payment ensures serious requests.
+
+## 🤝 Trust
 
 * I provide progress updates
-
-* I can send screenshots and videos
-
+* I can send screenshots/videos
 * I can show previews before final delivery
 
 ---
 
 # 🤝 What I Can Help With
 
-* I can help with scripts
-
-* I can help with UI setup
-
-* I can help with features
-
-* I can help with beginner-level systems
+* Simple scripts
+* Basic UI setup
+* Small features
+* Beginner-level systems
 
 ---
 
@@ -139,46 +120,44 @@ My goal is to become a Roblox developer. I want to build:
 
 Discord: yourname#1234
 
-When messaging please include:
+When messaging, include:
 
 * What you need
-
 * Your idea
-
 * Your budget
 
 ---
 
-# ⚡ Important NoteS
+# ⚡ Important Notes
 
-I am still learning Roblox development.This means:
+I am still learning Roblox development.
 
-* I may take time to complete tasks
+This means:
 
+* I may take time
 * I am improving every day
-
 * I will try my best on every task
 
 ---
 
 # 🔄 Progress
 
-This portfolio will be updated as I build systems.---
+This portfolio will be updated as I build more systems.
+
+---
 
 # 🚀 Future Growth
 
 I aim to improve into:
 
 * Advanced scripting
-
 * Optimized systems
-
 * Secure architectures
-
-* Full game development, with Roblox
+* Full game development
 
 ---
 
 # 🏁 Closing
 
-This is the beginning of my journey.More systems are coming soon.
+This is the beginning of my journey.
+More systems are coming soon.
